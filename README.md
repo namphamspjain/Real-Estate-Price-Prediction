@@ -18,3 +18,9 @@ Import libraries and objects we will use
 ## Now, we would define a function that tells how many NA and their percentage in each column
 <img width="613" alt="image" src="https://github.com/namphamspjain/Real-Estate-Price-Prediction/assets/72693967/d23baa1c-362a-4d70-a347-131a9171670e">
 <img width="432" alt="image" src="https://github.com/namphamspjain/Real-Estate-Price-Prediction/assets/72693967/8566f948-4f78-4888-a6f8-c167f31633bb">
+
+## Comment
+It seems like there are a lot of columns with no values or just one unique value, we will drop all of these since they are not useful for data analysis
+
+## Cleaning data by removing unneccessary null values
+<img width="1007" alt="image" src="https://github.com/namphamspjain/Real-Estate-Price-Prediction/assets/72693967/d55f14ea-19f8-4bdf-a9af-c85e595c5cb1">

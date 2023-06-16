@@ -8,4 +8,6 @@ The second part will continue on where I have never had the chance to complete, 
 
 ## PART 1
 Import libraries and objects we will use
+
+
 <img width="490" alt="image" src="https://github.com/namphamspjain/Real-Estate-Price-Prediction/assets/72693967/d8eb7381-e172-4496-88a7-3d215089c2d7">

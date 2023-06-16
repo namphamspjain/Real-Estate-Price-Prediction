@@ -23,4 +23,5 @@ Import libraries and objects we will use
 It seems like there are a lot of columns with no values or just one unique value, we will drop all of these since they are not useful for data analysis
 
 ## Cleaning data by removing unneccessary null values
-<img width="1007" alt="image" src="https://github.com/namphamspjain/Real-Estate-Price-Prediction/assets/72693967/d55f14ea-19f8-4bdf-a9af-c85e595c5cb1">
+<img width="1009" alt="image" src="https://github.com/namphamspjain/Real-Estate-Price-Prediction/assets/72693967/6bcec3e9-5ae4-4aaa-9a7e-c4c6dcc25d3d">
+

@@ -5,3 +5,7 @@ The data set is taken from multiple sources of real estate websites. The custome
 I will submit two parts of the project. The first one is all about data pre-processing using raw dataset. Since the original dataset is confidential according to the law of my previous company, so it was no longer available for you to run the codes, but you can still see all the works that I myself did by then. Fortunately, I'm still able to access to the cleaned dataset - the sales data (I divided the original dataset into two subsets for lease and for sale, as you can see later).
 
 The second part will continue on where I have never had the chance to complete, which are data analysis and model building.
+
+## PART 1
+Import libraries and objects we will use
+<img width="490" alt="image" src="https://github.com/namphamspjain/Real-Estate-Price-Prediction/assets/72693967/d8eb7381-e172-4496-88a7-3d215089c2d7">

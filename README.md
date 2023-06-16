@@ -14,3 +14,7 @@ Import libraries and objects we will use
 
 ## Explore the dataset further
 <img width="1113" alt="image" src="https://github.com/namphamspjain/Real-Estate-Price-Prediction/assets/72693967/5a6ba1a2-bd27-44fd-b3fe-9c6a12c7d6b7">
+
+## Now, we would define a function that tells how many NA and their percentage in each column
+<img width="613" alt="image" src="https://github.com/namphamspjain/Real-Estate-Price-Prediction/assets/72693967/d23baa1c-362a-4d70-a347-131a9171670e">
+<img width="432" alt="image" src="https://github.com/namphamspjain/Real-Estate-Price-Prediction/assets/72693967/8566f948-4f78-4888-a6f8-c167f31633bb">
